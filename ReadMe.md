@@ -3,7 +3,7 @@ Olá! Meu nome é Mauro Roncata, sou estudante de engenharia de software,<br>no 
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.roncata) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauroroncata_) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.roncata) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mauroroncata_) /n
 My email: mauroroncata@gmail.com
 
 # 💻 Tech Stack:

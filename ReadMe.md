@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Mauro</h1>
-<h3 align="center">🎓 ESou estudante de Engenharia de Software, com interesse em desenvolvimento de aplicações, principalmente com C# e .NET. 
+<h3 align="center">🎓 Sou estudante de Engenharia de Software, com interesse em desenvolvimento de aplicações, principalmente com C# e .NET. 
   Gosto de aprender na prática, criando projetos que envolvem consumo de APIs, lógica de programação e estruturação de dados.</h3>
 
 📫 Email **mauroroncata@gmail.com**
